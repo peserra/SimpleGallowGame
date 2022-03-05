@@ -37,6 +37,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\ManageBotoes.cs" />
+     <Compile Include="Assets\Scripts\MostraUltimaPalavra.cs" />
+     <Compile Include="Assets\Scripts\DontDestroyThis.cs" />
+     <None Include="Assets\Resources\palavras.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.28f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
