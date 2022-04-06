@@ -1,4 +1,4 @@
-##Projetos da disciplina Programação Baseada em Componentes para Jogos da UFABC
+## Projetos da disciplina Programação Baseada em Componentes para Jogos da UFABC
   - jogo simples com menu, musica, vitoria / derrota
 
 ### Primeiro contato com o Unity3D para criar jogos simples
